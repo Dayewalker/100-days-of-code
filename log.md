@@ -11,3 +11,14 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Link(s) to things I worked on today**
 1. [Javascript.info Array Methods](https://javascript.info/array-methods)
 2. [A Brief Introduction To Array Destructuring](https://www.freecodecamp.org/news/array-destructuring-in-es6-30e398f21d10/)
+
+
+### Day 2: June 13, Tuesday
+
+**Today's Progress**: Spent more time reviewing Javascript array methods, HTML and CSS. Solved one 7kyu problem on Codewars. Watched part of the Mayanwolfe video going over MVC with local authentication.
+
+**Thoughts**: Today did not start out very well, but I managed to turn it around eventually. Been having a lot of trouble staying focused recently, but I am working on finding ways to mitigate those feelings.
+
+**Link(s) to things I worked on today**
+1. [Fizz Buzz](https://www.codewars.com/kata/5300901726d12b80e8000498)
+2. [Let's explore local authentication and MVC!](https://www.youtube.com/watch?v=jo5GTErVBQU)
