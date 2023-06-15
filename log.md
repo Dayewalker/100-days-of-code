@@ -19,6 +19,18 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 
 **Thoughts**: Today did not start out very well, but I managed to turn it around eventually. Been having a lot of trouble staying focused recently, but I am working on finding ways to mitigate those feelings.
 
+
 **Link(s) to things I worked on today**
 1. [Fizz Buzz](https://www.codewars.com/kata/5300901726d12b80e8000498)
 2. [Let's explore local authentication and MVC!](https://www.youtube.com/watch?v=jo5GTErVBQU)
+
+
+### Day 3: June 14, Wednesday
+
+**Today's Progress**: Spent a lot more time today watching Mayanwolfe's video going over the MVC with local auth code. Definitely going to focus more on that tomorrow as well.
+
+**Thoughts**: Today was a much better day than yesterday in almost every way possible. I feel like I managed to make much better use of my time and I got a lot more accomplished by far. I really can't wait to see where I am by the end of this 100 days. 
+
+
+**Link(s) to things I worked on today**
+1. [Let's explore local authentication and MVC!](https://www.youtube.com/watch?v=jo5GTErVBQU)
