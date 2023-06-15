@@ -34,3 +34,14 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 
 **Link(s) to things I worked on today**
 1. [Let's explore local authentication and MVC!](https://www.youtube.com/watch?v=jo5GTErVBQU)
+
+
+### Day 4: June 15, Thursday
+
+**Today's Progress**: Solved a 7kyu problem on Codewars, studied some ANKI and spent a little time on HTML/CSS basics for review. Also started brainstorming ideas for a new portfolio site since I never finished my original one.
+
+**Thoughts**: Today was not the day that I set out for it to be when I got up this morning. I definitely didn't get as much accomplished as I'd have liked, but I'm not going to let that bother me. I've spent far too much time lately letting myself sit and wallow in my own thoughts. Regardless, tomorrow is a new day and I will continue to do my best with each day.
+
+
+**Link(s) to things I worked on today**
+1. [FreeCodeCamp Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
