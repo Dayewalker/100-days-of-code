@@ -45,3 +45,14 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 
 **Link(s) to things I worked on today**
 1. [FreeCodeCamp Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
+
+
+### Day 5: June 16, Friday
+
+**Today's Progress**: Solved a 7kyu problem on Codewars, studied some ANKI and did a bit more of the FreeCodeCamp course to refresh on HTML/CSS basics.
+
+**Thoughts**: Today was a total bust of a day. Last night a terrible storm blew through the area and knocked out power and internet, which were out for a large portion of the day. I also got very little sleep last night once the power went out and the storm was raging. Planning on going to bed at a good time tonight so that I can get a good night's sleep and get back at it tomorrow. 
+
+
+**Link(s) to things I worked on today**
+1. [FreeCodeCamp Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
