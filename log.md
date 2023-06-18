@@ -56,3 +56,15 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 
 **Link(s) to things I worked on today**
 1. [FreeCodeCamp Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
+
+
+### Day 6: June 17, Saturday
+
+**Today's Progress**: Solved a 7kyu problem on Codewars, studied some ANKI, finished the Mayanwolfe video going over the MVC code with auth and knocked out some more of the FreeCodeCamp Responsive Web Design course.
+
+**Thoughts**: Overall not bad for a Saturday when I had a thousand other things that I wanted to do besides anything coding related. Staying the course though and staying dedicated to pushing myself and hitting all 100 days of 100 Days of Code. Planning on trying to get some projects going in the coming week. Particulary a portfolio site, at least one sample site to go on it and a simple weather app that will display the current temperature and weather along with a potential forecast if possible.
+
+
+**Link(s) to things I worked on today**
+1. [FreeCodeCamp Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
+2. [Let's explore local authentication and MVC!](https://www.youtube.com/watch?v=jo5GTErVBQU)
