@@ -68,3 +68,14 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Link(s) to things I worked on today**
 1. [FreeCodeCamp Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
 2. [Let's explore local authentication and MVC!](https://www.youtube.com/watch?v=jo5GTErVBQU)
+
+
+### Day 7: June 18, Sunday
+
+**Today's Progress**: Knocked out an easy 8kyu Codewars problem to get a W on the board and help get me motivated. Also finished a bit more of the freeCodeCamp Responsive Web Design course.
+
+**Thoughts**: When I woke up this morning I wasn't in the mood to do anything at all. My anxiety was off the charts because of all the severe weather lately and I didn't think I was going to get anything done at all today. Ultimately I managed to get myself calmed down enough to start getting some work done and once I got started it was easy to keep going. I can feel myself getting back into the coding groove again in a very positive way. I just need to keep this momentum going and keep working on all of the things that I've neglected over these 9-10 months of 100 Devs. I think this week I am going to watch at least the class 53 portion of the next 100 Devs video this week just to keep pushing forward in that regard, but I also plan to keep working on the freeCodeCamp Responsive Web Design course and also some small projects. I definitely want to work on a simple weather app this week.
+
+
+**Link(s) to things I worked on today**
+1. [FreeCodeCamp Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
