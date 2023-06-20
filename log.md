@@ -79,3 +79,14 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 
 **Link(s) to things I worked on today**
 1. [FreeCodeCamp Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
+
+
+### Day 8, June 19, Monday
+
+**Today's Progress**: Solved a 7kyu Codewars problem, studied some ANKI cards and worked more on the Responsive Web Design course.
+
+**Thoughts**: Today I was busier outside of coding so I didn't get to devote as much time to it as I'd have liked, but tomorrow is a new day. I definitely enjoy having something to keep me motivated to working at least something every single day again. Its so easy to get caught up in life and lose sight of what I need to be doing. I can't wait to see where I am by the end of this 100 days. 
+
+
+**Link(s) to things I worked on today**
+1. [FreeCodeCamp Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
