@@ -90,3 +90,14 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 
 **Link(s) to things I worked on today**
 1. [FreeCodeCamp Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
+
+
+### Day 9, June 20, Tuesday
+
+**Today's Progress**: Solved a 7kyu Codewars problem, Studied some ANKI and watched the first hour of 100 Devs class 53.
+
+**Thoughts**: I spent more time today thinking about where I want to go than I did actually taking action, but I think it was necessary to some extent. I definitely know that I need to start putting in a lot more effort from this point on. I need to be building things every day and really getting my hands dirty with all of this code. Tomorrow I am going to finish class 53 and then work on building a simple weather app once I decide on an API to use. 
+
+**Link(s) to things I worked on today**
+1. [My Language Skills - 7kyu Codewars Kata](https://www.codewars.com/kata/5b16490986b6d336c900007d)
+2. [100Devs Class 53](https://www.youtube.com/watch?v=xsKGlEemTAo)
