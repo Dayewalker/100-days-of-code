@@ -101,3 +101,14 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Link(s) to things I worked on today**
 1. [My Language Skills - 7kyu Codewars Kata](https://www.codewars.com/kata/5b16490986b6d336c900007d)
 2. [100Devs Class 53](https://www.youtube.com/watch?v=xsKGlEemTAo)
+
+
+### Day 10, June 21, Wednesday
+
+**Today's Progress**: Worked on a 7kyu Codewars problem and ultimately looked at the solutions. Also finished up class 53 of 100 Devs.
+
+**Thoughts**: I realized this morning that I needed to allow myself to do something fun that has nothing to do with coding and not feel like I need to force myself to get a lot done today. I spent so much of the past week filled with anxiety from the storms and everything that I never allowed myself to truly relax. Definitely taking advantage of that tonight.
+
+**Link(s) to things I worked on today**
+1. [Maximum Product - 7kyu Codewars Kata](https://www.codewars.com/kata/5a4138acf28b82aa43000117)
+2. [100Devs Class 53](https://www.youtube.com/watch?v=xsKGlEemTAo)
