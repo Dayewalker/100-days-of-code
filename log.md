@@ -112,3 +112,13 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Link(s) to things I worked on today**
 1. [Maximum Product - 7kyu Codewars Kata](https://www.codewars.com/kata/5a4138acf28b82aa43000117)
 2. [100Devs Class 53](https://www.youtube.com/watch?v=xsKGlEemTAo)
+
+
+### Day 11, June 22, Thursday
+
+**Today's Progress**: Solved a 7kyu Codewars problem, studied some ANKI and then started working on a movie quote API.
+
+**Thoughts**: Today was not a good day at all for me mentally. I'm not really sure exactly what caused it today, but I've seriously gotta get a handle on this before I lose my mind. I have so many things I need to be doing and its almost impossible for me to focus on anything most of the time. Some days I manage to do okay, but then a day like today hits and I just feel overwhelmed with depression and anxiety. I feel like its sort of a catch-22 because I want to do something about my mental health, but in order for me to be able to afford to do that I need to get a job in tech but in order for me to do that I need my mental health to be in a better place. It just feels hopeless some days, but still I don't give up. I just have to keep pushing myself forward and not let these bad days stop me from getting what I want, no matter how hard it may seem.
+
+**Link(s) to things I worked on today**
+1. [Largest Elements](https://www.codewars.com/kata/53d32bea2f2a21f666000256)
