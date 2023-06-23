@@ -3,7 +3,7 @@
 ### Day 1: June 12, Monday
 
 **Today's Progress**:
-Spent time reviewing Javascript array methods and arrau destrictiring and beginning to get myself refreshed on HTML and CSS.
+Spent time reviewing Javascript array methods and array destructuring and beginning to get myself refreshed on HTML and CSS.
 
 **Thoughts**: 
 I've been on the coding journey for awhile now with many bumps in the road. Today is about my commitment to myself and to my future. No more letting life get in my way as I let time slip away from me. I intend to use 100 Days of Code to push me to get better at coding, build more projects and hopefully do something impactful with my code.
@@ -122,3 +122,14 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 
 **Link(s) to things I worked on today**
 1. [Largest Elements](https://www.codewars.com/kata/53d32bea2f2a21f666000256)
+
+
+### Day 12, June 23, Friday
+
+**Today's Progress**: Solved one 7kyu Codewars problem, studied some ANKI and watched the first hour of the 100Devs Backend Super Review.
+
+**Thoughts**: I didn't have as much time to spend coding today as I would have liked, but I still managed to get some stuff accomplished. I am really realizing that I am going to have to make some adjustments to my day and really start grinding so I can get to where I truly want to be. 88 more days to go!
+
+**Link(s) to things I worked on today**
+1. [Spacify](https://www.codewars.com/kata/57f8ee485cae443c4d000127)
+2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
