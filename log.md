@@ -133,3 +133,14 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Link(s) to things I worked on today**
 1. [Spacify](https://www.codewars.com/kata/57f8ee485cae443c4d000127)
 2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
+
+
+### Day 13, June 24, Saturday
+
+**Today's Progress**: Solved one 7kyu Codewars problem, studied some ANKI and watched a little bit more of the 100 Devs Backend super review.
+
+**Thoughts**: I didn't get as much done today as I would have liked, but I haven't felt well since this morning and was struggling to really do anything at all, be it coding or otherwise. I did finally manage to get a few things accomplished and I may still try to do something more later this evening depending on how I feel. 
+
+**Link(s) to things I worked on today**
+1. [By 3, or not by 3? That is the question...](https://www.codewars.com/kata/59f7fc109f0e86d705000043)
+2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
