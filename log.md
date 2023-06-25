@@ -144,3 +144,13 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Link(s) to things I worked on today**
 1. [By 3, or not by 3? That is the question...](https://www.codewars.com/kata/59f7fc109f0e86d705000043)
 2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
+3. 
+
+
+### Day 14, June 25, Sunday
+
+**Today's Progress**: Solved one 7kyu Codewars problem and studied some ANKI
+
+**Thoughts**: I decided to make today a light day and only do a coding challenge and study some ANKI. I may try to make Sunday more of a "rest day" going forward so that I know I have a day where I can focus on doing things besides coding and not have that nagging feeling of guilt that I should be doing something more important. I think that will ultimately help me out in other ways as well.
+
+1. [Divide and Conquer](https://www.codewars.com/kata/57eaec5608fed543d6000021)
