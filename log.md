@@ -144,7 +144,6 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Link(s) to things I worked on today**
 1. [By 3, or not by 3? That is the question...](https://www.codewars.com/kata/59f7fc109f0e86d705000043)
 2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
-3. 
 
 
 ### Day 14, June 25, Sunday
@@ -154,3 +153,14 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Thoughts**: I decided to make today a light day and only do a coding challenge and study some ANKI. I may try to make Sunday more of a "rest day" going forward so that I know I have a day where I can focus on doing things besides coding and not have that nagging feeling of guilt that I should be doing something more important. I think that will ultimately help me out in other ways as well.
 
 1. [Divide and Conquer](https://www.codewars.com/kata/57eaec5608fed543d6000021)
+
+
+### Day 15, June 26, Monday
+
+**Today's Progress**: Solved one 7kyu Codewars problem, studied some ANKI, watched more of the backend super review video and worked on my weather API project a bit more.
+
+**Thoughts**: Today has been a pretty solid day so far. Monday usually seems to start out pretty well and then the week tapers off from there, but I plan on not letting that happen this week. I've been working hard to establish better daily routines and make sure that I put in enough time with coding every day, along with the day to day things that I need to accomplish outside of coding and also the leisure activities that help keep me sane. 
+
+**Link(s) to things I worked on today**
+1. [Sum of Minimums!](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699)
+2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
