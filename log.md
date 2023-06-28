@@ -177,5 +177,11 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 2. [Microsoft Sponsored! GitHub For Teams](https://www.twitch.tv/learnwithleon)
 
 
+### Day 17, June 28, Wednesday
 
+**Today's Progress**: Solved one 8kyu Codewars problem and studied some ANKI.
 
+**Thoughts**: I didn't have a good day today at all with regards to coding. I'm honestly not really sure why I ended up in such a foul mood today, but it made it really difficult to focus on much of anything. Rather than force myself to try to make some sort of progress today I opted to take it easy and give myself some grace instead.
+
+**Link(s) to things I worked on today**
+1. [Miles per gallon to kilometers per liter](https://www.codewars.com/kata/557b5e0bddf29d861400005d)
