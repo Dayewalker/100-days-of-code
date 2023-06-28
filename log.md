@@ -164,3 +164,18 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Link(s) to things I worked on today**
 1. [Sum of Minimums!](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699)
 2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
+
+
+### Day 16, June 27, Tuesday
+
+**Today's Progress**: Solved one 7kyu Codewars problem, studied some ANKI, watched a bit more of the backend super review and watched the new 100Devs live class on Git/Github.
+
+**Thoughts**: Overall today was a pretty good day. I knew that I was going to be watching the 100Devs class tonight so I gave myself some time during the day to do some more fun things and didn't start coding until after lunch. Listening to the Twitter space was a good reminder that I have the benefit of WAY more time to put towards all of this stuff than a lot of people and I really need to keep that in mind at all times.
+
+**Link(s) to things I worked on today**
+1. [Smalled Value Of An Array](https://www.codewars.com/kata/544a54fd18b8e06d240005c0)
+2. [Microsoft Sponsored! GitHub For Teams](https://www.twitch.tv/learnwithleon)
+
+
+
+
