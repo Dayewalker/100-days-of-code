@@ -185,3 +185,14 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 
 **Link(s) to things I worked on today**
 1. [Miles per gallon to kilometers per liter](https://www.codewars.com/kata/557b5e0bddf29d861400005d)
+
+
+### Day 18, June 29, Thursday
+
+**Today's Progress**: Attempted one 7kyu Codewars problem, stuedied some ANKI, watched a bit more of the backened super review and then checked out a cool Twitter space.
+
+**Thoughts**: I let myself get a little frustrated this morning when I shouldn't have and I think I know how I need to approach things so that I can help manage those frustrations going forward. I definitely need to keep joining that Twitter space that I was in today, but also as many others as I can manage as well. They seem to be very valuable resources that I'm not taking advantage of well enough. I also really need to start involving myself in the community as a whole more. I think that maybe it will help a bit with my mental health to be interacting with a much more driven group of people who are doing the same thing that I want to be doing myself.
+
+**Link(s) to things I worked on today**
+1. [Row Weights - 7kyu Codewars](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9)
+2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
