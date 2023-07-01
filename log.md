@@ -196,3 +196,14 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Link(s) to things I worked on today**
 1. [Row Weights - 7kyu Codewars](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9)
 2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
+
+
+### Day 19, June 30, Friday
+
+**Today's Progress**: Solved one 7kyu Codewars problem and watched a bit of the backend super review.
+
+**Thoughts**: Today I ended up taking it a lot easier than I had originally intended, but I plan on making up for it over the weekend. That Codewars problem was definitely proof that sometimes you just need to walk away for a bit and the answer will come to you. 
+
+**Link(s) to things I worked on today**
+1. [Check the exam](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
+2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
