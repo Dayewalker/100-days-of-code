@@ -207,3 +207,15 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Link(s) to things I worked on today**
 1. [Check the exam](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
 2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
+
+
+### Day 20, July 1, Saturday
+
+**Today's Progress**: Solved one 7kyu Codewars problem, watched more of the backend super review.
+
+**Thoughts**: I straight up didn't do anything today. I was lazy and honestly I kinda needed it. We'll see how tomorrow goes.
+
+**Link(s) to things I worked on today**
+
+1. [Char Code Calculation](https://www.codewars.com/kata/57f75cc397d62fc93d000059)
+2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
