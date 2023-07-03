@@ -121,7 +121,7 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Thoughts**: Today was not a good day at all for me mentally. I'm not really sure exactly what caused it today, but I've seriously gotta get a handle on this before I lose my mind. I have so many things I need to be doing and its almost impossible for me to focus on anything most of the time. Some days I manage to do okay, but then a day like today hits and I just feel overwhelmed with depression and anxiety. I feel like its sort of a catch-22 because I want to do something about my mental health, but in order for me to be able to afford to do that I need to get a job in tech but in order for me to do that I need my mental health to be in a better place. It just feels hopeless some days, but still I don't give up. I just have to keep pushing myself forward and not let these bad days stop me from getting what I want, no matter how hard it may seem.
 
 **Link(s) to things I worked on today**
-1. [Largest Elements](https://www.codewars.com/kata/53d32bea2f2a21f666000256)
+1. [Largest Elements - 7kyu Codewars Kata](https://www.codewars.com/kata/53d32bea2f2a21f666000256)
 
 
 ### Day 12, June 23, Friday
@@ -131,7 +131,7 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Thoughts**: I didn't have as much time to spend coding today as I would have liked, but I still managed to get some stuff accomplished. I am really realizing that I am going to have to make some adjustments to my day and really start grinding so I can get to where I truly want to be. 88 more days to go!
 
 **Link(s) to things I worked on today**
-1. [Spacify](https://www.codewars.com/kata/57f8ee485cae443c4d000127)
+1. [Spacify - 7kyu Codewars Kata](https://www.codewars.com/kata/57f8ee485cae443c4d000127)
 2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
 
 
@@ -142,7 +142,7 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Thoughts**: I didn't get as much done today as I would have liked, but I haven't felt well since this morning and was struggling to really do anything at all, be it coding or otherwise. I did finally manage to get a few things accomplished and I may still try to do something more later this evening depending on how I feel. 
 
 **Link(s) to things I worked on today**
-1. [By 3, or not by 3? That is the question...](https://www.codewars.com/kata/59f7fc109f0e86d705000043)
+1. [By 3, or not by 3? That is the question... - 7kyu Codewars Kata](https://www.codewars.com/kata/59f7fc109f0e86d705000043)
 2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
 
 
@@ -152,7 +152,7 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 
 **Thoughts**: I decided to make today a light day and only do a coding challenge and study some ANKI. I may try to make Sunday more of a "rest day" going forward so that I know I have a day where I can focus on doing things besides coding and not have that nagging feeling of guilt that I should be doing something more important. I think that will ultimately help me out in other ways as well.
 
-1. [Divide and Conquer](https://www.codewars.com/kata/57eaec5608fed543d6000021)
+1. [Divide and Conquer - 7kyu Codewars Kata](https://www.codewars.com/kata/57eaec5608fed543d6000021)
 
 
 ### Day 15, June 26, Monday
@@ -162,7 +162,7 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Thoughts**: Today has been a pretty solid day so far. Monday usually seems to start out pretty well and then the week tapers off from there, but I plan on not letting that happen this week. I've been working hard to establish better daily routines and make sure that I put in enough time with coding every day, along with the day to day things that I need to accomplish outside of coding and also the leisure activities that help keep me sane. 
 
 **Link(s) to things I worked on today**
-1. [Sum of Minimums!](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699)
+1. [Sum of Minimums! - 7kyu Codewars Kata](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699)
 2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
 
 
@@ -173,7 +173,7 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Thoughts**: Overall today was a pretty good day. I knew that I was going to be watching the 100Devs class tonight so I gave myself some time during the day to do some more fun things and didn't start coding until after lunch. Listening to the Twitter space was a good reminder that I have the benefit of WAY more time to put towards all of this stuff than a lot of people and I really need to keep that in mind at all times.
 
 **Link(s) to things I worked on today**
-1. [Smalled Value Of An Array](https://www.codewars.com/kata/544a54fd18b8e06d240005c0)
+1. [Smalled Value Of An Array - 7kyu Codewars Kata](https://www.codewars.com/kata/544a54fd18b8e06d240005c0)
 2. [Microsoft Sponsored! GitHub For Teams](https://www.twitch.tv/learnwithleon)
 
 
@@ -184,7 +184,7 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Thoughts**: I didn't have a good day today at all with regards to coding. I'm honestly not really sure why I ended up in such a foul mood today, but it made it really difficult to focus on much of anything. Rather than force myself to try to make some sort of progress today I opted to take it easy and give myself some grace instead.
 
 **Link(s) to things I worked on today**
-1. [Miles per gallon to kilometers per liter](https://www.codewars.com/kata/557b5e0bddf29d861400005d)
+1. [Miles per gallon to kilometers per liter - 8kyu Codewars Kata](https://www.codewars.com/kata/557b5e0bddf29d861400005d)
 
 
 ### Day 18, June 29, Thursday
@@ -194,7 +194,7 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Thoughts**: I let myself get a little frustrated this morning when I shouldn't have and I think I know how I need to approach things so that I can help manage those frustrations going forward. I definitely need to keep joining that Twitter space that I was in today, but also as many others as I can manage as well. They seem to be very valuable resources that I'm not taking advantage of well enough. I also really need to start involving myself in the community as a whole more. I think that maybe it will help a bit with my mental health to be interacting with a much more driven group of people who are doing the same thing that I want to be doing myself.
 
 **Link(s) to things I worked on today**
-1. [Row Weights - 7kyu Codewars](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9)
+1. [Row Weights - 7kyu Codewars Kata](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9)
 2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
 
 
@@ -205,7 +205,7 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Thoughts**: Today I ended up taking it a lot easier than I had originally intended, but I plan on making up for it over the weekend. That Codewars problem was definitely proof that sometimes you just need to walk away for a bit and the answer will come to you. 
 
 **Link(s) to things I worked on today**
-1. [Check the exam](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
+1. [Check the exam - 7kyu Codewars Kata](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
 2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
 
 
@@ -217,5 +217,18 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 
 **Link(s) to things I worked on today**
 
-1. [Char Code Calculation](https://www.codewars.com/kata/57f75cc397d62fc93d000059)
+1. [Char Code Calculation - 7kyu Codewars Kata](https://www.codewars.com/kata/57f75cc397d62fc93d000059)
 2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
+
+
+### Day 21, July 2, Sunday
+
+**Today's Progress**: Solved one 7kyu Codewars problem, studied some ANKI cards, finished part 1 of the backend super review, watched 100Devs class 54 and 55 and worked on the freeCodeCamp Responsive Web Design course.
+
+**Thoughts**: Today was a very productive day. I made up my mind that I was going to get things accomplished today after getting some non-coding things done first and I definitely lived up to my word. Hopefully I can keep up this momentum as I go into this week.
+
+**Link(s) to things I worked on today**
+1. [Nth Smallest Element (Array Series #4) - 7kyu Codewars Kata](https://www.codewars.com/kata/5a512f6a80eba857280000fc)
+2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
+3. [Let's Build A Social Network with Node, Express, MongoDB & Cloudinary - #100Devs Class 53-55](https://www.youtube.com/watch?v=xsKGlEemTAo)
+4. [FreeCodeCamp Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
