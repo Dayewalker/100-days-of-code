@@ -232,3 +232,15 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
 3. [Let's Build A Social Network with Node, Express, MongoDB & Cloudinary - #100Devs Class 53-55](https://www.youtube.com/watch?v=xsKGlEemTAo)
 4. [FreeCodeCamp Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
+
+
+### Day 22, July 3, Monday
+
+**Today's Progress**: Solved one 7kyu Codewars problem, watched Mayanwolfe's video covering the Binary-Upload-Boom codebase and worked more on the freeCodeCamp Responsive Web Design course.
+
+**Thoughts**: Another solid, productive day. Got a lot done and I feel really good about it.
+
+**Link(s) to things I worked on today**
+1. [Get key/value pairs as arrays - 7kyu Codewars Kata](https://www.codewars.com/kata/515dfd2f1db09667a0000003)
+2. [Let's Explore Binary Upload Boom! #100Devs](https://www.youtube.com/watch?v=GMEwkVV_Jus)
+3. [FreeCodeCamp Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
