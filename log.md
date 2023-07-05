@@ -244,3 +244,15 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 1. [Get key/value pairs as arrays - 7kyu Codewars Kata](https://www.codewars.com/kata/515dfd2f1db09667a0000003)
 2. [Let's Explore Binary Upload Boom! #100Devs](https://www.youtube.com/watch?v=GMEwkVV_Jus)
 3. [FreeCodeCamp Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
+
+
+### Day 23, July 4, Tuesday
+
+**Today's Progress**: Solved one 7kyu Codewars problem, listened to Danny Thompson's awesome Twitter space, watched the first hour of part 2 of the 100Devs backend super review and then tinkered a bit more with my weather API app.
+
+**Thoughts**: I did a lot more today than I really thought I did once I sat down to start putting this in for the day. I feel really motivated, especially after hearing a lot of the things that were brought up in that Twitter space this morning. I had a really great feeling just a few minutes ago while tinkering with my weather forecast app. I was trying to figure out how to convert the date from the format that is given in the response from the weather API ('2023-07-04') into something more like ('7-04-2023'). Ultimately I was able to get everything converted and displayed the way that I wanted and when I stopped to think about it, I realized that I really am a software engineer. I had a problem and I was able to think about it and come up with a solution using code to do what I needed. Today was definitely a W for me.
+
+**Link(s) to things I worked on today**
+1. [Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe - 7kyu Codewars Kata](https://www.codewars.com/kata/582746fa14b3892727000c4f)
+2. [How to get your first job in tech as a developer - Twitter Space](https://twitter.com/DThompsonDev/status/1676229631106531329?s=20)
+3. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
