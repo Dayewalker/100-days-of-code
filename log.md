@@ -256,3 +256,15 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 1. [Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe - 7kyu Codewars Kata](https://www.codewars.com/kata/582746fa14b3892727000c4f)
 2. [How to get your first job in tech as a developer - Twitter Space](https://twitter.com/DThompsonDev/status/1676229631106531329?s=20)
 3. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
+
+
+### Day 24, July 5, Wednesday
+
+**Today's Progress**: Solved one 7kyu Codewars problem, finished part 2 of the backend super review and watched 100Devs class 56-57.
+
+**Thoughts**: Watched a lot of class/review and didn't get a lot of hands on keyboard time. That changes tomorrow.
+
+**Link(s) to things I worked on today**
+1. [Alternate capitalization - 7kyu Codewars Kata](https://www.codewars.com/kata/59cfc000aeb2844d16000075)
+2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
+3. [100Devs Class 56-57](https://www.youtube.com/watch?v=zjxo_-wNZHE)
