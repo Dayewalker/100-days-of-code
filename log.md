@@ -268,3 +268,13 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 1. [Alternate capitalization - 7kyu Codewars Kata](https://www.codewars.com/kata/59cfc000aeb2844d16000075)
 2. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
 3. [100Devs Class 56-57](https://www.youtube.com/watch?v=zjxo_-wNZHE)
+
+
+### Day 25, July 6, Thursday
+
+**Today's Progress**: Solved one 7kyu Codewars problem and studied some ANKI cards.
+
+**Thoughts**: Today just sort of got away from me and I ended up not focused at all. Tomorrow will be a better day.
+
+**Link(s) to things I worked on today**
+1. [Coding Meetup #2 - Higher-Order Functions Series - Greet developers - 7kyu Codewars Kata](https://www.codewars.com/kata/58279e13c983ca4a2a00002a)
