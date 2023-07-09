@@ -278,3 +278,15 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 
 **Link(s) to things I worked on today**
 1. [Coding Meetup #2 - Higher-Order Functions Series - Greet developers - 7kyu Codewars Kata](https://www.codewars.com/kata/58279e13c983ca4a2a00002a)
+
+
+### Day 26, July 8, Saturday
+
+**Today's Progress**: Solved two 7kyu Codewars problems, studied some ANKI cards and started the last third of the backend super review.
+
+**Thoughts**: I ended up taking the day off yesterday without even really intending to, but I tried to at leaet make up for it today a little bit. I think I front loaded my week with so much stuff that I was sort of mentally burned out a little by the weekend. No worries though!
+
+**Link(s) to things I worked on today**
+1. [Bumps in the Road - 7kyu Codewars Kata](https://www.codewars.com/kata/57ed30dde7728215300005fa)
+2. [Remove anchor from URL - 7kyu Codewars Kata](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)
+3. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
