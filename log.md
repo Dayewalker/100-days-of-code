@@ -290,3 +290,14 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 1. [Bumps in the Road - 7kyu Codewars Kata](https://www.codewars.com/kata/57ed30dde7728215300005fa)
 2. [Remove anchor from URL - 7kyu Codewars Kata](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)
 3. [100Devs Backend Super Review](https://www.youtube.com/watch?v=JGFS11u1TIQ)
+
+
+### Day 27, July 9, Sunday
+
+**Today's Progress**: Solved one 7kyu Codewars problem, studied some ANKI cards and started reading the React docs.
+
+**Thoughts**: I didn't really spend a lot of time working with code or really thinking a lot about code, but I'm ready to start tomorrow on a high note and get some solid work done this week. I'd like to get some actual project work accomplished this week. I'm thinking I need to stop what I'm doing, get my portfolio up and going, get my resume done, get my story crafted and maybe put together a full static website from scratch to feature on my portfolio as well. I need to get this stuff done ASAP so that I can get it out in public and also start looking for a freelance client and possibly some open source to help contribute to as well.
+
+**Link(s) to things I worked on today**
+1. [Cat and Mouse - Easy Version - 7kyu Codewars Kata](https://www.codewars.com/kata/57ee24e17b45eff6d6000164)
+2. [React Docs](https://react.dev/learn)
