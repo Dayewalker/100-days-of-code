@@ -301,3 +301,13 @@ I've been on the coding journey for awhile now with many bumps in the road. Toda
 **Link(s) to things I worked on today**
 1. [Cat and Mouse - Easy Version - 7kyu Codewars Kata](https://www.codewars.com/kata/57ee24e17b45eff6d6000164)
 2. [React Docs](https://react.dev/learn)
+
+
+### Day 28, July 11, Tuesday
+
+**Today's Progress**: Solved one 8kyu Codewars problem and studied some ANKI cards briefly.
+
+**Thoughts**: Not feeling it at all today. Literally just did something so I could post this on here today. Will try again tomorrow. Might take the rest of this week off tbh. Not really sure yet.
+
+**Link(s) to things I worked on today**
+1. [Be Concise III - Sum Squares - 8kyu Codewars Kata](https://www.codewars.com/kata/56f8fe6a2e6c0dc83b0008a7)
